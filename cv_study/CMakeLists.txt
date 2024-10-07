@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28.3)
+project(fff)
+find_package(OpenCV REQUIRED)
+include_directories(${OPENCV_INCLUDE_DIRS})
+add_executable(fff chap4.cpp)
+target_link_libraries(fff ${OpenCV_LIBS})

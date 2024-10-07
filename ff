@@ -1,0 +1,2 @@
+wget -c -r -np -k -L -p https://jyywiki.cn/os-demos/
+opencv配置

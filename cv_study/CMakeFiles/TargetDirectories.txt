@@ -1,0 +1,3 @@
+/home/coffee/cv_study/CMakeFiles/fff.dir
+/home/coffee/cv_study/CMakeFiles/edit_cache.dir
+/home/coffee/cv_study/CMakeFiles/rebuild_cache.dir
